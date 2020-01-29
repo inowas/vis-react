@@ -10,7 +10,7 @@
 	"dependencies": {
 		"lodash": "^4.17.4",
 		"uuid": "^2.0.1",
-		"vis": "^4.21.0-EOL"
+		"vis": "https://github.com/almende/vis/archive/v4.21.0.tar.gz"
 	},
 	"description": "A react component to render network graphs using vis.js",
 	"devDependencies": {
