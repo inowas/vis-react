@@ -19,7 +19,7 @@
 		"babel-preset-stage-3": "^6.24.1"
 	},
 	"directories": {},
-	"homepage": "https://github.com/anishmprasad/vis-react#readme",
+	"homepage": "https://github.com/inowas/vis-react#readme",
 	"keywords": [
 		"react-component",
 		"react",
@@ -44,7 +44,7 @@
 	"readme": "ERROR: No README data found!",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/anishmprasad/vis-react.git"
+		"url": "git+https://github.com/inowas/vis-react.git"
 	},
 	"scripts": {},
 	"version": "0.4.8"
